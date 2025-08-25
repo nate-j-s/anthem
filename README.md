@@ -1,6 +1,6 @@
 ## Anthem
 
-Anthem by [Precode](http://precode.net) is a minimal blogging theme for Ghost. Ispired by the Marianne WordPress theme by [Teddy](https://wordpress.org/themes/marianne/) with several changes.
+Anthem by [Natejs](https://github.com/nate-j-s). Ispired by the Marianne WordPress theme by [Teddy](https://wordpress.org/themes/marianne/) with several changes.
 
 ## Files to edit
 
