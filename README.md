@@ -1,6 +1,6 @@
 ## Anthem
 
-Anthem by [FuelDev](https://fueldev.io). Inspired by the Marianne WordPress theme by [Teddy](https://wordpress.org/themes/marianne/) with several changes.
+Anthem by [Portweb](https://portweb.dev). Inspired by the Marianne WordPress theme by [Teddy](https://wordpress.org/themes/marianne/) with several changes.
 
 ## Files to edit
 
